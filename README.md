@@ -1,2 +1,3 @@
-# Sistema-de-Marcajes
-Sistema de fichaje e incidencias de usuarios
+sistema de marcaje en php 7
+con MySQL y siguiendo patrones de diseño Modelo Vista Controlador
+programación orientada a objetos 
